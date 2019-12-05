@@ -1,0 +1,3 @@
+Запуск контейнера приложения
+-----------------------------------------
+docker run -it --rm -v /home/antony/projects/finizdat-scraper:/home/antony finizdat-scraper:1.0 
